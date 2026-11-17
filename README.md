@@ -7,7 +7,7 @@ The dataset extends the original Istanbul Building Dataset (V1) by incorporating
 - **Study area:** Istanbul, Türkiye
 - **Spatial resolution:** 0.5 m
 - **Patch size:** 512 × 512 pixels
-- **Annotations:** Manually delineated, image-aligned building roof boundaries and corresponding binary masks
+- **Annotations:** Manually delineated, image-aligned building roof boundaries and corresponding binary masks.
 The dataset contains 1,381 patches: 967 for training, 276 for validation, and 138 for testing.
 ## Benchmark Experiments
 The study evaluates CNN-based segmentation architectures (U-Net, UNet++, DeepLabV3+, FPN, and PSPNet) and SegFormer with an MiT-B2 encoder. Experiments include in-domain evaluation, cross-dataset testing, and boundary-focused assessment.
