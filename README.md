@@ -5,6 +5,9 @@ The dataset extends the original Istanbul Building Dataset (V1) by incorporating
 
 <img width="1130" height="673" alt="image" src="https://github.com/user-attachments/assets/59e05ae8-d9a1-48b2-8e0e-911a68491cce" />
 
+Fig. 1. Spatial distribution of the V1 and V2 datasets in Istanbul and representative building annotations from V2, including the Historic Peninsula, the Grand
+Bazaar, ITU Tas¸kıs¸la, the S¨uleymaniye Mosque, and tall buildings.
+
 ## Dataset
 - **Study area:** Istanbul, Türkiye
 - **Spatial resolution:** 0.5 m
