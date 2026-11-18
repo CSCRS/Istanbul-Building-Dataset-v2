@@ -29,7 +29,5 @@ The SegFormer notebook was tested with the following environment:
 | Matplotlib | 3.10.9 |
 | IPykernel | 7.3.0 |
 
-An NVIDIA GPU with CUDA-enabled PyTorch is required.
-
 ## Availability
 ## Citation
