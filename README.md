@@ -16,8 +16,7 @@ Bazaar, ITU Taşkışla, the Süleymaniye Mosque, and tall buildings.
 
 The dataset contains 1,381 patches: 967 for training, 276 for validation, and 138 for testing.
 ## Benchmark Experiments
-The study evaluates CNN-based segmentation architectures (U-Net, UNet++, DeepLabV3+, FPN, and PSPNet) and SegFormer with an MiT-B2 encoder. Experiments include in-domain evaluation, cross-dataset testing, and boundary-focused assessment.
-Segmentation performance is assessed using pixel-level IoU, F1-score, and Boundary IoU.
+Seven segmentation architectures are compared in-domain: U-Net, UNet++, DeepLabV3+, FPN, PSPNet, SegFormer (MiT-B2), and a hybrid U-Net with a MiT-B2 encoder. Additional cross-dataset and boundary-focused evaluations are conducted using U-Net. Performance is assessed using pixel-level IoU, F1-score, and Boundary IoU, as appropriate for each experiment.
 
 ## Availability
 ## Citation
