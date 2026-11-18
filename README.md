@@ -19,18 +19,5 @@ The dataset contains 1,381 patches: 967 for training, 276 for validation, and 13
 The study evaluates CNN-based segmentation architectures (U-Net, UNet++, DeepLabV3+, FPN, and PSPNet) and SegFormer with an MiT-B2 encoder. Experiments include in-domain evaluation, cross-dataset testing, and boundary-focused assessment.
 Segmentation performance is assessed using pixel-level IoU, F1-score, and Boundary IoU.
 
-## Environment
-
-The SegFormer notebook was tested with the following environment:
-
-| Component | Version |
-|-----------|---------|
-| Python | 3.10.22 |
-| PyTorch | 2.14.1+cu130 |
-| NumPy | 2.2.6 |
-| OpenCV (opencv-python) | 5.0.0.93 |
-| Matplotlib | 3.10.9 |
-| IPykernel | 7.3.0 |
-
 ## Availability
 ## Citation
