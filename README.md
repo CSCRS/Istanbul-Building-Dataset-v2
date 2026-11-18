@@ -4,6 +4,7 @@ Istanbul Building Dataset V2 is a very-high-resolution satellite image dataset f
 The dataset extends the original Istanbul Building Dataset (V1) by incorporating additional urban morphologies.
 
 <img width="1130" height="673" alt="image" src="https://github.com/user-attachments/assets/59e05ae8-d9a1-48b2-8e0e-911a68491cce" />
+
 ## Dataset
 - **Study area:** Istanbul, Türkiye
 - **Spatial resolution:** 0.5 m
