@@ -25,4 +25,10 @@ All checkpoints correspond to epoch 50 and were used to obtain the V2 test resul
 **[Download Model Weights](https://github.com/CSCRS/Istanbul-Building-Dataset-v2/releases/tag/v2.0.0)**
 
 ## Availability
+The dataset access link will be provided here once confirmed.
+
+## Acknowledgments
+This work was supported by the GRSS Quality Remote Sensing Data Creation initiative.
+
 ## Citation
+The associated manuscript is currently under review. Full citation details will be added upon publication.
