@@ -27,8 +27,9 @@ All checkpoints correspond to epoch 50 and were used to obtain the V2 test resul
 ## Availability
 The dataset access link will be provided here once confirmed.
 
+## Citation
+The associated manuscript is currently under review. Full citation details will be added upon publication.
+
 ## Acknowledgments
 This work was supported by the GRSS Quality Remote Sensing Data Creation initiative.
 
-## Citation
-The associated manuscript is currently under review. Full citation details will be added upon publication.
