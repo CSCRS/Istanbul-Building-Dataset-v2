@@ -30,7 +30,15 @@ The repository and training codes are archived on Zenodo:
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24556700.svg)](https://doi.org/10.5281/zenodo.24556700)
 
 ## Citation
-The associated manuscript is currently under review. Full citation details will be added upon publication.
+## Citation
+
+The associated manuscript is currently under review.
+Full citation details will be added upon publication.
+
+In the meantime, please cite the archived repository:
+
+ITU CSCRS (2026). Istanbul Building Dataset V2 (v2.0.1).
+Zenodo. https://doi.org/10.5281/zenodo.24556700
 
 ## Acknowledgments
 This work was supported by the GRSS Quality Remote Sensing Data Creation initiative.
