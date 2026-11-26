@@ -27,7 +27,7 @@ All checkpoints correspond to epoch 50 and were used to obtain the V2 test resul
 ## Availability
 The repository and training codes are archived on Zenodo:
 
-[![DOI](https://zenodo.org/badge/github/1460302121.svg)](https://doi.org/10.5281/zenodo.24556700)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24556700.svg)](https://doi.org/10.5281/zenodo.24556700)
 
 ## Citation
 The associated manuscript is currently under review. Full citation details will be added upon publication.
